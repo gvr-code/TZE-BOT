@@ -9,9 +9,9 @@ export const botConfig = {
   // - "idle"      = yellow moon
   // - "dnd"       = red do-not-disturb
   // - "invisible" = appears offline
-  presence: {
+  presence: {dnd
     // Current online state shown on Discord.
-    status: "online",
+    status: "Sub to BreeezyyYT",
 
     // Activity lines shown under the bot name.
     // `type` number mapping from Discord:
@@ -21,7 +21,7 @@ export const botConfig = {
     // 3 = Watching
     // 4 = Custom
     // 5 = Competing
-    activities: [
+    activities: [2
       {
         // Text users will see (example: "Playing /help | Titan Bot").
         name: "Made with ❤️",
